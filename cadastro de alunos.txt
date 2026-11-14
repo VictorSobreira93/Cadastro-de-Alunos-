@@ -1,0 +1,10 @@
+2023050;Mariana Souza;Ciencia da Computacao
+2023030;Rafael Lima;Sistemas de Informacao
+2023020;Beatriz Almeida;Engenharia Civil
+2023010;Lucas Pereira;Matematica
+2023040;Diego Martins;Engenharia Civil
+2023070;Helena Barbosa;Ciencia da Computacao
+2023060;Igor Carvalho;Engenharia Civil
+2023080;Juliana Nunes;Sistemas de Informacao
+2023075;Kleber Araujo;Matematica
+2023090;Larissa Mendes;Ciencia da Computacao
